@@ -75,6 +75,6 @@ class Post(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)                           
     updated_at = models.DateTimeField(auto_now=True)                                # 글 수정 시간
     location = models.CharField(max_length=100)
-    price = models.IntegerField(max_length=999999)
+    price = models.IntegerField()
     hit_count = models.IntegerField(default=0)    
 
