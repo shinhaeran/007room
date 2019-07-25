@@ -1,2 +1,2 @@
 ### 007room
-@shonhaeran @taem98 @Mithumbsup
+@shinhaeran @taem98 @Mithumbsup
